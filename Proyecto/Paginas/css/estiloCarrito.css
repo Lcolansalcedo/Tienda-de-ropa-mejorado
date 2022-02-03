@@ -1,0 +1,42 @@
+#compra{
+    height: 550px;
+    margin-top: 200px;
+}
+#carrito{
+    height: 500px;
+    width: 100%;
+ 
+    float: left;
+}
+ table{
+     width: 100%;
+      color: rgb(0, 0, 0);
+      background-color: rgb(159, 209, 255);
+  
+
+ }
+ th{
+     font-size: 30px;
+ }
+  td{
+      font-size: 20px;
+      text-align: center;
+     height: 50px;
+  }
+  button{
+      background-color: rgba(0, 0, 255, 0.425);
+width: 100px;
+height: 30px;
+border-radius: 1em;
+  }
+  button:hover{
+      background-color: white;
+  }
+  h3{
+      font-size: 30px;
+  }
+  .alert{
+      background-color:  rgb(159, 209, 255);
+      font-size: 30px;
+      height: 70px;
+  }
